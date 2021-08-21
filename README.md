@@ -8,9 +8,11 @@ Includes:
 
 Cowsay code implementation:
 
+ -------
 < Hello >
  -------
         \   ^__^
+
          \  (oO)\_______
             (__)\       )\/\
              U  ||----w |
