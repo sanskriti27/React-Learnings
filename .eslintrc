@@ -1,0 +1,15 @@
+{
+    "extends": [
+       // "some-other-config-you-use",
+        "prettier"
+      ],
+
+    "rules": {
+        "no-unused-vars":"warn"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2021 // without this the JS file file will show errors in some reserved key words
+    }
+    
+  
+}
