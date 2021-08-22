@@ -23,12 +23,13 @@ Cowsay code implementation:
                 ||     ||
 
 MordernJS.js consist of examples under:
--> Var vs const vs let
--> array.map
--> array.reduce
--> function expression vs function decleration
--> Arrow Function and default argument
--> string interpolation
--> object and array destructring
--> spread and rest objects
--> Async and Sync Code - Promises and Async Await
+
+- Var vs const vs let
+- array.map
+- array.reduce
+- function expression vs function decleration
+- Arrow Function and default argument
+- string interpolation
+- object and array destructring
+- spread and rest objects
+- Async and Sync Code - Promises and Async Await
